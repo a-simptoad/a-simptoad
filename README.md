@@ -1,5 +1,6 @@
 # <p align="center">🐸 0xAsymptoad </p>
 
+![](https://raw.githubusercontent.com/a-simptoad/a-simptoad/space-shooter-output/gh-contribution-grid.gif)
 
 ## About Me
 Hi, I'm Aryan Agarwal, currently a sophomore at IIT Roorkee having a keen interest in Decentralized finance and Distributed Systems. I am always excited to learn for and from existing codebases and contribute my part in open-source projects. I also love to make simple games for fun. 
