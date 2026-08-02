@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/a-simptoad/a-simptoad/space-shooter-output/gh-contribution-grid.gif)
 
 ## About Me
-Hi, I'm Aryan Agarwal, currently a sophomore at IIT Roorkee having a keen interest in Decentralized finance and Distributed Systems. I am always excited to learn for and from existing codebases and contribute my part in open-source projects. I also love to make simple games for fun. 
+Hi, I'm Aryan Agarwal, currently a Pre-Final year student at IIT Roorkee having a keen interest in Cloud Networking and Distributed Systems. I am always excited to learn for and from existing codebases and contribute my part in open-source projects. I also love to make simple games for fun. 
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xasymptoad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanagarwal727@gmail.com) 
